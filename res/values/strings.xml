@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">callYou</string>
+    <string name="HeadText">请输入号码</string>
+    <string name="ButtonText">拨打</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
